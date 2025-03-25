@@ -27,18 +27,23 @@ const Projects = () => {
   ];
 
   return (
-    <div className="card-container">
-      {projects.map((item, index) => (
-        <div key={index} className="card">
-          <img className="card-img" src={item.src} alt={item.title} />
-          <div className="card-body">
-            <h3 className="card-title">{item.title}</h3>
-            <p className="card-text">{item.text}</p>
-            <button className="card-button">{item.label}</button>
-          </div>
+    <section className="projects">
+      <div className="container">
+        <h2 className="projects__title">My Projects</h2>
+        <div className="card-container">
+          {projects.map((item, index) => (
+            <div key={index} className="card">
+              <img className="card-img" src={item.src} alt={item.title} />
+              <div className="card-body">
+                <h3 className="card-title">{item.title}</h3>
+                <p className="card-text">{item.text}</p>
+                <button className="card-button">{item.label}</button>
+              </div>
+            </div>
+          ))}
         </div>
-      ))}
-    </div>
+      </div>
+    </section>
   );
 };
 
