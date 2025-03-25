@@ -1,5 +1,8 @@
 import React from 'react';
 import '../App.css';
+import Image1 from "../Images/engineering-computer-science-algorithms-design-analysis_soe-ycsalgorithms.png";
+import Image2 from "../Images/6-Reasons-why-you-should-learn-Programming-1280x720.png";
+import Image3 from "../Images/1_pMcr7T1bXh_adr_-4ve7Tw.gif";
 
 const Projects = () => {
   const projects = [
@@ -7,19 +10,19 @@ const Projects = () => {
       title: "Project One",
       text: "This is a description of project one.",
       label: "Learn More",
-      src: "https://via.placeholder.com/150"
+      src: Image1
     },
     {
       title: "Project Two",
       text: "This is a description of project two.",
       label: "View Details",
-      src: "https://via.placeholder.com/150"
+      src: Image2
     },
     {
       title: "Project Three",
       text: "This is a description of project three.",
       label: "View Details",
-      src: "https://via.placeholder.com/150"
+      src: Image3
     }
   ];
 
