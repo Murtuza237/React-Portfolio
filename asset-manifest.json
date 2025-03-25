@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.15902741.css",
-    "main.js": "/React-Portfolio/static/js/main.14ff142a.js",
+    "main.css": "/React-Portfolio/static/css/main.5cc9b81c.css",
+    "main.js": "/React-Portfolio/static/js/main.8d5fa1c9.js",
     "static/media/profile.tiff": "/React-Portfolio/static/media/profile.e181cef4e8f92a3d3f4e.tiff",
+    "static/media/1_pMcr7T1bXh_adr_-4ve7Tw.gif": "/React-Portfolio/static/media/1_pMcr7T1bXh_adr_-4ve7Tw.d0f5777fe6e9029f2aa8.gif",
+    "static/media/6-Reasons-why-you-should-learn-Programming-1280x720.png": "/React-Portfolio/static/media/6-Reasons-why-you-should-learn-Programming-1280x720.d8654ef7d6b859931486.png",
+    "static/media/engineering-computer-science-algorithms-design-analysis_soe-ycsalgorithms.png": "/React-Portfolio/static/media/engineering-computer-science-algorithms-design-analysis_soe-ycsalgorithms.c44ead9707957b0ed916.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.15902741.css.map": "/React-Portfolio/static/css/main.15902741.css.map",
-    "main.14ff142a.js.map": "/React-Portfolio/static/js/main.14ff142a.js.map"
+    "main.5cc9b81c.css.map": "/React-Portfolio/static/css/main.5cc9b81c.css.map",
+    "main.8d5fa1c9.js.map": "/React-Portfolio/static/js/main.8d5fa1c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.15902741.css",
-    "static/js/main.14ff142a.js"
+    "static/css/main.5cc9b81c.css",
+    "static/js/main.8d5fa1c9.js"
   ]
 }
